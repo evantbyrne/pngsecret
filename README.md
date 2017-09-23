@@ -1,6 +1,6 @@
 # pngsecret
 
-Hide messages in PNG images.
+Hide messages in PNG images. Encodes data with subtle transparency changes.
 
 
 ## Install
